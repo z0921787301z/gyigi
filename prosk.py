@@ -22,43 +22,43 @@ print("""
 \033["""+str(randint(0,1))+""";"""+str(randint(31,36))+"""m[ %s Start Bot ]\033[0m    
 """%(Bot_startTime))
 #==============================================================
-cl = LINE("")
+cl = LINE("EJqqdLYqVSYRoSfTOGe0.8CIsOZ0tjC5ei7nyW6IA0a.I6CDntFSgFiB4p1OjzpsWkgA6aPKdiWB+bhjBhPyl9I=")
 print("""\033["""+str(randint(0,1))+""";"""+str(randint(31,36))+"""m[ %s Selfbot Login ]\033[0m"""%(Bot_startTime))
 
-k1 = LINE("")
+k1 = LINE("EJiGqaNm3NYj5076sLe1.hUqjJAteQzMo5K0QBXBz8q.+0EWO4C5ZqzNioA23kIO9RPEnYO9MdrUiob1iYbak20=")
 print("""\033["""+str(randint(0,1))+""";"""+str(randint(31,36))+"""m[ %s Asist1 Login ]\033[0m"""%(Bot_startTime))
 
-k2 = LINE("")
+k2 = LINE("EJBUkouwXhG5xYDxZhb5.qVdKf+yRXSIfzggNgMn9nq.IQ9shFmDmWGAW9RBRl5EzX92sBK+5Pt8kr3hoiiTpvY=")
 print("""\033["""+str(randint(0,1))+""";"""+str(randint(31,36))+"""m[ %s Asist2 Login ]\033[0m"""%(Bot_startTime))
 
-k3 = LINE("")
+k3 = LINE("EJgeQoscuMaR0aQjjCoa.1K6y3o3ElsmEkiCbtpFMwG.bjXcYD0nqNontxtgQT62ES8MgM2t6X7FxIa9TU4cDsA=")
 print("""\033["""+str(randint(0,1))+""";"""+str(randint(31,36))+"""m[ %s Asist3 Login ]\033[0m"""%(Bot_startTime))
 
-k4 = LINE("")
+k4 = LINE("EJAaOJIiHErgAy1NSpY8.zHlvNdg2L3j8pTA6azfVAa.sBGgTwqxUVhQOkaloYvwvjQ6Q+KJhD+HWC43q3A4BCQ=")
 print("""\033["""+str(randint(0,1))+""";"""+str(randint(31,36))+"""m[ %s Asist4 Login ]\033[0m"""%(Bot_startTime))
 
-k5 = LINE("")
+k5 = LINE("EJKEmzXfNbkVptnrery8.zHlvNdg2L3j8pTA6azfVAa.rsDDtDV1YnOyDI1giOBQsEsunesuPrV8ARQV0FM/tkE=")
 print("""\033["""+str(randint(0,1))+""";"""+str(randint(31,36))+"""m[ %s Asist5 Login ]\033[0m"""%(Bot_startTime))
 
-k6 = LINE("")
+k6 = LINE("EJRIX08EUYJsq6ArTC10.qlTmY5g0OOJMKtarYeI6ya.JIYO+zgeQGbhtyeZB1IKpGizUc0YbxXhYdu3LF2rHR0=")
 print("""\033["""+str(randint(0,1))+""";"""+str(randint(31,36))+"""m[ %s Asist6 Login ]\033[0m"""%(Bot_startTime))
 
-k7 = LINE("")
+k7 = LINE("EJIHdSeAV1P4iNfsMFT9.Ex54Z662Txw/TQnUE5zOIq.QGAjH3TaOLdN3xRZ1rlpF9t+u5MyOpEl7EhyCsXXRQw=")
 print("""\033["""+str(randint(0,1))+""";"""+str(randint(31,36))+"""m[ %s Asist7 Login ]\033[0m"""%(Bot_startTime))
 
-k8 = LINE("")
+k8 = LINE("EJpJDG2WFf7TKAejJTed.bezTLrEhCgi19D9pKfyoBq.I2XOLmGX+sAOKcby47mKqP3bWPX5wqRq/U0qvfxCpX4=")
 print("""\033["""+str(randint(0,1))+""";"""+str(randint(31,36))+"""m[ %s Asist8 Login ]\033[0m"""%(Bot_startTime))
 
-k9 = LINE("")
+k9 = LINE("EJhoXcGwhiF6CrdqBxL5.DBxoaChmdk3HbT2xIrmiXq.SRr+ykBSOqqbB00zKCne2rNNhww5mekjdcOvN68lmIw=")
 print("""\033["""+str(randint(0,1))+""";"""+str(randint(31,36))+"""m[ %s Asist9 Login ]\033[0m"""%(Bot_startTime))
 
-k10 = LINE("")
+k10 = LINE("EJFkHdkPAL1JYxDl1779.fHZpUWKM7TlbxbBIzzVskq.RPJU0eldi9l5lKR0BGLPDeCw1U1h0uh9oSA679HN5kQ=")
 print("""\033["""+str(randint(0,1))+""";"""+str(randint(31,36))+"""m[ %s Asist10 Login ]\033[0m"""%(Bot_startTime))
 
-g1 = LINE("")
+g1 = LINE("EJc0O14JDOFhGXzkGed6.vk/3rYSlInh6mMVp4ER4DG.LqabzAVfABxnk221YLtF1n+cbnCZZTOu5hC3E/zX0go=")
 print("""\033["""+str(randint(0,1))+""";"""+str(randint(31,36))+"""m[ %s Kicker1 Login ]\033[0m"""%(Bot_startTime))
 
-g2 = LINE("")
+g2 = LINE("EJy3UShoAqtg7XlQ6Ozd.7zGMfC55v8UEQuU4THIyZq.9fJYWQH8sh34P+V0d3HKhuM6SmrFKILqrPrk3m0zuSw=")
 print("""\033["""+str(randint(0,1))+""";"""+str(randint(31,36))+"""m[ %s Kicker2 Login ]\033[0m"""%(Bot_startTime))
 #==========================[[PAKE TOKEN CHROMEOS 2.1.5]]=========================
 print("""\033["""+str(randint(0,1))+""";"""+str(randint(31,36))+"""m
@@ -70,10 +70,10 @@ Login Time %s \033[0m\n\n"""%(Bot_startTime))
 #==============================================================================
 oepoll = OEPoll(cl)
 call = cl
-creator = ["ub1c5a71f27b863896e9d44bea857d35b","ufdc20b3a00b5e8f31e4f91017eb361b0"]
-owner = ["ub1c5a71f27b863896e9d44bea857d35b","ufdc20b3a00b5e8f31e4f91017eb361b0"]
-admin = ["ub1c5a71f27b863896e9d44bea857d35b","ufdc20b3a00b5e8f31e4f91017eb361b0"]
-staff = ["ufdc20b3a00b5e8f31e4f91017eb361b0"]
+creator = ["u7dee0949b799e28a38085c0660a99ab2","uf1c892a33d1325ce4423b358c3a89ad0"]
+owner = ["u7dee0949b799e28a38085c0660a99ab2","uf1c892a33d1325ce4423b358c3a89ad0"]
+admin = ["u7dee0949b799e28a38085c0660a99ab2","uf1c892a33d1325ce4423b358c3a89ad0"]
+staff = ["u7dee0949b799e28a38085c0660a99ab2"]
 #==============================================================================
 lineProfile = cl.getProfile()
 mid = cl.getProfile().mid
@@ -700,36 +700,36 @@ def help():
     key = Setmain["keyCommand"]
     key = key.title()
     helpMessage = "╭━━━━━━━━━━━━━━━\n"
-    helpMessage += "│┃ " + "╭──⍟ᴛᴇᴀᴍ ʙᴏᴛ ᴘʀᴏᴛᴇᴄᴛ⍟─\n"
-    helpMessage += "│┃" + " ├───༼ᴍᴇɴᴜ ʙᴏᴛ sɪʟᴇɴᴛ༽────────────────\n"
+    helpMessage += "│┃ " + "╭──⍟✿タイガーファミリー_デビッド✿⍟─\n"
+    helpMessage += "│┃" + " ├───༼✿タイガーファミリー_デビッド✿༽────────────────\n"
     helpMessage += "│┃" + " ├──────────────\n"
-    helpMessage += "│╠❂➣ %i. " % num + key + "ᴍᴇ\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "Me\n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + "sᴘ\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "Sp\n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + "ᴋᴇᴘᴏ @\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "Kepo @\n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + "ᴍʏʙᴏᴛ\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "Mybot\n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + "ɴᴀᴍᴇ\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "Name\n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + "ᴍᴀsᴜᴋ\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "Mausk\n"
     num = (num+1)
     helpMessage += "│╠❂➣ %i. " % num + key + "ᴘᴜʟᴀɴɢ\n"
     num = (num+1)
     helpMessage += "│╠❂➣ %i. " % num + key + "ᴜᴘʙᴏᴛ\n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + "ɢᴇᴛᴍɪᴅ @\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "Get mid @\n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + "ᴀʙᴏᴜᴛ\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "About\n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + "ᴛɪᴍᴇ\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "time\n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + "ᴄʀᴇᴀᴛᴏʀ\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "Creator\n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + "ɢʟɪsᴛ\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "Ginfo\n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + "ᴏᴘᴇɴ\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "Open\n"
     num = (num+1)    
     helpMessage += "│╠❂➣ %i. " % num + key + "ᴏᴜʀʟ\n"
     num = (num+1)
@@ -737,21 +737,21 @@ def help():
     num = (num+1)
     helpMessage += "│╠❂➣ %i. " % num + key + "ɢʀᴜᴘɪɴғᴏ ɴᴏ\n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + "sᴛᴀғғʟɪsᴛ\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "Stafflist\n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + "ʙᴏᴛʟɪsᴛ\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "Botlist\n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + "ʜᴀᴘᴜsᴄʜᴀᴛ\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "Hapuschat\n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + "sɪᴅᴇʀ ᴏɴ[ᴏғғ]\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "Sider on/off\n"
     num = (num+1)
     helpMessage += "│╠❂➣ %i. " % num + key + "ᴛᴇs\n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + "ᴜᴘɢʀᴜᴘ\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "Upgrup\n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + "ʙᴄᴀsᴛ:「ᴛᴇxᴛ」\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "Bcast:「Text」\n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + "sᴇᴛɴᴀᴍᴇ\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "Set sname\n"
     num = (num+1)
     helpMessage += "│╠❂➣ %i. " % num + key + "ɴᴀᴍᴇ: ɴᴀᴍᴀ\n"
     num = (num+1)
@@ -771,23 +771,23 @@ def help():
     num = (num+1)
     helpMessage += "│╠❂➣ %i. " % num + key + "1/10ᴜᴘ 「ubah foto」\n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + "ᴄsɪᴅᴇʀ\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "Csider\n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + "ᴄᴘᴇsᴀɴ\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "Cpesan\n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + "ᴄʀᴇsᴘᴏɴ\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "Crespon\n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + "ᴄᴡᴇʟᴄᴏᴍᴇ\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "Cwelcome\n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + "sᴛɪᴄᴋᴇʀ「ᴏɴ/ᴏғғ」\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "Sticker「on/off」\n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + "ʀᴇsᴘᴏɴ「ᴏɴ/ᴏғғ」\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "Respon「on/off」\n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + "ᴜɴsᴇɴᴅ「ᴏɴ/ᴏғғ」\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "Unsend「on/off」\n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + "ᴀᴜᴛᴏʙʟᴏᴄᴋ「ᴏɴ/ᴏғғ」\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "Autoblock「on/off」\n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + "ᴡᴇʟᴄᴏᴍᴇ「ᴏɴ/ᴏғғ」\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "Welcome「on/off」\n"
     num = (num+1)
     helpMessage += "│╠❂➣ %i. " % num + key + "ʟᴀɢᴜ ᴊᴜᴅᴜʟ\n"
     num = (num+1)
@@ -795,50 +795,50 @@ def help():
     num = (num+1)
     helpMessage += "│╠❂➣ %i. " % num + key + "!ɢᴏᴏɢʟᴇ ᴄᴀʀɪ\n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + "ʏᴛᴍᴘ4: ᴄᴀʀɪ\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "Ytmp4: Judul Video\n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + "ᴄʜᴀɴɢᴇᴅᴜᴀʟ \n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "Changedual \n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + "ᴄʜᴀɴɢᴇᴅᴜᴀʟʟɪɴᴋ•\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "Changedualurl: •link•\n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + "ɪᴍɢ ғᴏᴏᴅ: ᴄᴀʀɪ\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "Img food: produk\n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + "ᴘʀᴏғɪʟᴇsᴍᴜʟᴇ: ɪᴅ\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "Profilesmule: id\n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + " ᴘʀᴏғɪʟᴇɪɢ: ɪᴅ\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + " Profilesmule: id\n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + "ᴍᴇᴍᴇ@1@2@3\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "Meme@nama@kata1@kata2\n"
     num = (num+1)
     helpMessage += "│╠❂➣ %i. " % num + key + "ᴛᴀғsɪʀǫᴜʀᴀɴ ɴᴏ|ɴᴏ\n"
     num = (num+1)    
-    helpMessage += "│╠❂➣ %i. " % num + key + "ᴀᴅᴅɪᴍɢ •ᴋᴀᴛᴀ•\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "Addimg •nama•\n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + "ᴅᴇʟʟɪᴍɢ •ᴋᴀᴛᴀ•\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "Dellimg •nama•\n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + "ʟɪsᴛɪᴍɢ •ᴋᴀᴛᴀ•\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "Listimg •nama•\n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + "ᴀᴅᴅᴠɪᴅᴇᴏ •ᴋᴀᴛᴀ•\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "Addvideo •nama•\n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + "ᴅᴇʟʟᴠɪᴅᴇᴏ •ᴋᴀᴛᴀ•\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "Dellvideo •nama•\n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + "ʟɪsᴛᴠɪᴅᴇᴏ •ᴋᴀᴛᴀ•\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "Listvideo •nama•\n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + "ᴀᴅᴅsᴛɪᴄᴋᴇʀ •ᴋᴀᴛᴀ•\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "Addsticker •nama•\n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + "ᴅᴇʟʟsᴛɪᴄᴋᴇʀ •ᴋᴀᴛᴀ•\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "Dellsticker •nama•\n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + "ʟɪsᴛsᴛɪᴄᴋᴇʀ •ᴋᴀᴛᴀ•\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "Liststicker •nama•\n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + "ᴀᴅᴅᴀᴜᴅɪᴏ •ᴋᴀᴛᴀ•\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "Addaudio •nama•\n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + "ᴅᴇʟʟᴀᴜᴅɪᴏ •ᴋᴀᴛᴀ•\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "Dellaudio •nama•\n"
     num = (num+1)
-    helpMessage += "│╠❂➣ %i. " % num + key + "ʟɪsᴛᴀᴜᴅɪᴏ •ᴋᴀᴛᴀ•\n"
+    helpMessage += "│╠❂➣ %i. " % num + key + "Listaudio •nama•\n"
     num = (num+1)    
     helpMessage += "│┃ " + "├──────────────\n"
-    helpMessage += "│┃ " + "╰──⍟ ᴛᴇᴀᴍ ʙᴏᴛ ᴘʀᴏᴛᴇᴄᴛ ⍟─────────\n"
+    helpMessage += "│┃ " + "╰──⍟ ✿タイガーファミリー_デビッド✿ ⍟─────────\n"
     helpMessage += "╰━━━━━━━━━━━━━━━━"
-    helpMessage += " Creator: https://line.me/ti/p/~teambotprotect \n"
+    helpMessage += " Creator: ✿My bot ID:skyzzyu830✿ \n"
     return helpMessage
 
 def helpbot():
@@ -846,70 +846,70 @@ def helpbot():
     key = Setmain["keyCommand"]
     key = key.title()
     helpMessage2 = "╭━━━━━━━━━━━━━━━━\n"
-    helpMessage2 += "│┃ " + "╭───⍟ᴛᴇᴀᴍ ʙᴏᴛ ᴘʀᴏᴛᴇᴄᴛ⍟─\n"
+    helpMessage2 += "│┃ " + "╭───⍟✿タイガーファミリー_デビッド✿⍟─\n"
     helpMessage2 += "│┃" + " ├───༼ᴄᴏᴍᴍᴀɴᴅ ᴋɪᴄᴋᴇʀ༽────────────\n"
     helpMessage2 += "│┃" + " ├──────────────\n"
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "ᴋɪᴄᴋᴇʀ @\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Kicker @\n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "ᴠᴄ @ \n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Vc @ \n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "ᴍᴀɪɴᴋᴀɴ @\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Mainkan @\n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "ɪɴᴠɪᴛᴇ \n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Invite \n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "ʙʟ \n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Bl \n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "ʙᴀɴʟɪsᴛ \n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Refresh \n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "ғʀᴇsʜ/ʀᴇғʀᴇsʜ \n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Refresh/Refresh \n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "ɢᴀs \n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Gas \n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "ᴋɪʟʟʙᴀɴ \n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Killban \n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "sᴘᴀᴍɪɴᴠɪᴛᴇ ᴏɴ/ᴏғғ \n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Spaminvite on/off \n"
     num = (num+1)
     helpMessage2 += "│╠❂➣ %i. " % num + key + "ᴀᴅᴅʙᴏᴛ \n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "ʙᴀɴᴀʟʟ\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Banlist\n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "ᴄʟᴇᴀʀʙᴀɴ\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Clearban\n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "ᴀᴅᴍɪɴ ᴏɴ\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Admin:on\n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "ᴀᴅᴍɪɴ @\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Admin @\n"
     num = (num+1)
     helpMessage2 += "│╠❂➣ %i. " % num + key + "ᴀᴅᴍɪɴᴅᴇʟʟ @\n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "ᴀᴅᴍɪɴ ᴏғғ\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Admin off\n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + " ᴏᴡɴᴇʀ ᴏɴ\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + " Owner:on\n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "sᴛᴀғғ ᴏɴ\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Staff:on\n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "sᴛᴀғғᴅᴇʟʟ\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Staffdell\n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "sᴛᴀғғ @\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Staff @\n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "sᴛᴀғғᴅᴇʟʟ @\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Staffdell @\n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "ʙᴏᴛ ᴏɴ\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Bot:on\n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "ʙᴏᴛᴅᴇʟʟ \n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Botdell \n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "ʙᴏᴛ @\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Bot @\n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "ʙᴏᴛᴅᴇʟʟ @\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Botdell @\n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "ʙᴀɴ @\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Ban @\n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "ʙᴀɴᴅᴇʟʟ @\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Bandell @\n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "ʙᴀɴ ᴏɴ\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Ban ᴏɴ\n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "ʙᴀɴᴅᴇʟʟ\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Bandell\n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "ᴛᴀʟᴋʙᴀɴ ᴏɴ\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Talkban ᴏɴ\n"
     num = (num+1)
     helpMessage2 += "│╠❂➣ %i. " % num + key + "s bl\n"
     num = (num+1)
@@ -917,60 +917,60 @@ def helpbot():
     num = (num+1)
     helpMessage2 += "│╠❂➣ %i ." % num + key + "ᴛᴀʟᴋʙᴀɴᴅᴇʟʟ\n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "ᴛᴀᴋʙᴀɴ @\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Talkban @\n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + " ᴛᴀʟᴋʙᴀɴᴅᴇʟʟ @\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + " Talkbandell @\n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "ᴛᴀʟᴋʙᴀɴʟɪsᴛ\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Talkbanlist\n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "ᴀʟʟᴘʀᴏ ᴏɴ/ᴏғғ\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Allpro on/off\n"
     num = (num+1)    
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "ᴘʀᴏᴛᴇᴄᴛǫʀ ᴏɴ/ᴏғғ\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Protectqr ᴏɴ/off\n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "ᴘʀᴏᴛᴇᴄᴛᴜʀʟ ᴏɴ/ᴏғғ\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Protecturl ᴏɴ/off\n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "ᴘʀᴏᴛᴇᴄᴛᴋɪᴄᴋ ᴏɴ/ᴏғғ\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Protectkick ᴏɴ/off\n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "ᴘʀᴏᴛᴇᴄᴛᴊᴏɪɴ ᴏɴ/ᴏғғ\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Protectjion ᴏɴ/off\n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "ᴘʀᴏᴛᴇᴄᴛɪɴᴠɪᴛᴇ ᴏɴ/ᴏғғ\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Protectinvite ᴏɴ/off\n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "ᴘʀᴏᴛᴇᴄᴛᴄᴀɴᴄᴇʟ ᴏɴ/ᴏғғ\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Protrctcancel on/off \n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "ᴊs ᴏɴ/ᴏғғ\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Js on/off\n"
     num = (num+1)
     helpMessage2 += "│╠❂➣ %i. " % num + key + "ʙʏᴇ1/10\n"
     num = (num+1)
     helpMessage2 += "│╠❂➣ %i. " % num + key + "ʟᴇᴀᴠᴇɢʀᴜᴘ「ɴᴏ」\n"
     num = (num+1)    
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "ᴋɪᴄᴋᴇʀ「ɪɴ」\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Kicker「in」\n"
     num = (num+1)  
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "ᴋɪᴄᴋᴇʀ「ʟᴠ」\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Kicker「lv」\n"
     num = (num+1)    
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "ɪɴғᴏɢʀᴜᴘ「ɴᴏ」\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Infogrup「angka」\n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "ɪɴғᴏᴍᴇᴍʙᴇʀ「ɴᴏ」\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Infomem「angka」\n"
     num = (num+1)     
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "sɪʟᴇɴᴛᴋɪʟʟᴇʀ [ᴋɪᴄᴋᴀʟʟ]\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Silentkiller [kickall]\n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "ʙᴜʙᴀʀ [ᴋɪᴄᴋᴀʟʟ]\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Bubar [kickall]\n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "sɪʟᴇɴᴛ1/2 \n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Silent/2 \n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "ᴀᴜᴛᴏᴊᴏɪɴ ᴏɴ/ᴏғғ\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Autojoin on/off\n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "ᴀᴜᴛᴏᴀᴅᴅ ᴏɴ/ᴏғғ\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Autoadd on/off\n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "ᴀᴜᴛᴏʟᴇᴀᴠᴇ ᴏɴ/ᴏғғ\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Autolevea on/off\n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "ᴀᴜᴛᴏʙʟᴏᴋ ᴏɴ/ᴏғғ\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Autoblok on/off\n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "ᴊᴏɪɴᴛɪᴄᴋᴇᴛ ᴏɴ/ᴏғғ\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "Jointicket  on/off\n"
     num = (num+1)
     helpMessage2 += "│┃ " + "├──────────────\n"
-    helpMessage2 += "│┃ " + "╰──⍟ ᴛᴇᴀᴍ ʙᴏᴛ ᴘʀᴏᴛᴇᴄᴛ ⍟────────\n"
+    helpMessage2 += "│┃ " + "╰──⍟ ✿タイガーファミリー_デビッド✿ ⍟────────\n"
     helpMessage2 += "╰━━━━━━━━━━━━━━━━"
-    helpMessage2 += " My ID LINE : 〘 https://line.me/ti/p/~teambotprotect 〙\n"
+    helpMessage2 += " My ID LINE : 〘 ✿My bot ID:skyzzyu830✿ 〙\n"
     return helpMessage2
 
 def bot(op):
